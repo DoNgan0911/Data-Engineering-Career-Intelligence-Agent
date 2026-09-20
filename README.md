@@ -91,7 +91,6 @@ The final roadmap includes:
 - OpenAI GPT-4o-mini
 - SerperDevTool
 - ScrapeWebsiteTool
-- LangChain
 - Markdown
 
 ## Project Workflow
